@@ -1,2 +1,2 @@
 # fluid_impl
-Fluid implementation for a HSE homework assignment
+Пожалуйста, дайте время до конца 22ого числа, я уже близко к завершению
